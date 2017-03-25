@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+
+            android:title="@string/nav_home" />
+        <item
+            android:id="@+id/nav_valetta"
+
+            android:title="@string/nav_Valletta" />
+        <item
+            android:id="@+id/nav_northmalta"
+
+            android:title="@string/nav_North_Malta" />
+        <item
+            android:id="@+id/nav_southmalta"
+
+            android:title="@string/nav_South_Malta" />
+
+        <item
+            android:id="@+id/nav_gozo"
+
+            android:title="@string/nav_Gozo" />
+        <item
+            android:id="@+id/nav_qrscanner"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/nav_QRScanner" />
+    </group>
+
+
+
+</menu>

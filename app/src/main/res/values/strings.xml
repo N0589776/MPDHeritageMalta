@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Heritage Malta</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_Valletta">Valletta</string>
+    <string name="nav_South_Malta">South Malta</string>
+    <string name="nav_North_Malta">North Malta</string>
+    <string name="nav_Gozo">Gozo</string>
+    <string name="nav_QRScanner">QR Scanner</string>
+    <string name="google_maps_key">AIzaSyD8SWnx82ZPIWbyp7NOT4rBh6xtncZdgZM</string>
+    <string name="ticket_prices">Ticket Prices</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
